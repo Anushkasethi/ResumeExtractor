@@ -1,13 +1,7 @@
 numpy
 opencv-python
 python-dotenv
-torch
-tqdm
-cohere==5.11.2
+cohere
 editdistance
-collections
-codecs
-pymupdf==1.24.13
-tools
-re
+pymupdf
 streamlit==1.21.0
