@@ -7,3 +7,5 @@ cohere
 editdistance
 pymupdf
 streamlit==1.21.0
+openpyxl
+
